@@ -1,6 +1,6 @@
 # Site settings
-title: 'Strange Case' # Your Title
-tagline: 'Twisted tales to make you shudder' # A brief tagline for your site
+title: 'Políticas Públicas' # Your Title
+tagline: 'Blog escrito por <a href="http://haroldfarfanreto.com" target="_blank">Harold Farfán Reto</a>. Aquí se publican opiniones, análisis y noticias sobre políticas públicas en el Perú.' # A brief tagline for your site
 sidebar_image: /images/cover.jpg
 permalink: /:title/
 
