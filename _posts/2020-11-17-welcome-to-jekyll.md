@@ -1,8 +1,11 @@
 ---
 layout: post
 title: "Los bonos de la pandemia: ¿una política exitosa?"
-date:   2020-11-17 16:05:30 -0500
+date: 2015-01-07 12:00:00
+categories: jekyll
+featured_image: /images/pandemia1.jpg
 ---
+
 En el marco de la emergencia sanitaria de este año, el Gobierno ha decretado la entrega de bonos económicos a los sectores declarados como más vulnerables del país. Esta política responde a la necesidad del Gobierno de atenuar lo más posible la contracción de la economía, lo cua ha sido el resultado inevitable de la pérdida de 2.3 millones de puestos de empleo y la consiguiente pérdida de capacidad adquisitiva, especialmente en la capital (según [Bruno Seminario](https://ojo-publico.com/2031/bruno-seminario-esta-pandemia-cierra-el-periodo-neoliberal), los servicios constituyen entre 70% y 80% de la economía de Lima, y Lima es aproximadamente el 70% de toda la economía nacional). Por un lado más social, la entrega de bonos también tuvo como finalidad brindar soporte tanto a las familias que perdieron sus ingresos económicos por la pandemia como a la población en general.
 
 ![pandemia1](https://github.com/hfarfanreto/politicas_publicas/blob/main/images/pandemia1.jpg?raw=true "Fuente: La República")
