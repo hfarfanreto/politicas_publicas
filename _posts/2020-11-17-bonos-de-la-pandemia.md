@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Los bonos de la pandemia: ¿una política exitosa?"
-date: 2015-01-07 12:00:00
+date: 2020-11-17 12:00:00
 categories: pandemia
 featured_image: /images/pandemia1.jpg
 ---
