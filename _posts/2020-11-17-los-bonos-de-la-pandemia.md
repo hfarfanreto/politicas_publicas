@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Los bonos de pandemia: ¿una política exitosa?"
+title: "Los bonos de la pandemia: ¿una política exitosa?"
 date: 2020-11-17 12:00:00
 categories: jekyll
 featured_image: /images/pandemia1.jpg
