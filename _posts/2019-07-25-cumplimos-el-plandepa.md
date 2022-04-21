@@ -6,30 +6,26 @@ categories: jekyll
 featured_image: /images/plandepa1.jpg
 ---
 
-Strange Case of Dr Jekyll and Mr Hyde is the original title of a novella written by the Scottish author [Robert Louis Stevenson]() that was first published in 1886. The work is commonly known today as The Strange Case of Dr. Jekyll and Mr. Hyde, Dr. Jekyll and Mr. Hyde, or simply Jekyll & Hyde. It is about a London lawyer named Gabriel John Utterson who investigates strange occurrences between his old friend, Dr. Henry Jekyll, and the evil Edward Hyde.
+Los indicadores de evauación del PLANDEPA incluyen algunas metas cuyo cumplimiento puede ser medido con la Primera encuesta nacional sobre percepciones sobre diversidad cultural y discriminación étnico-racial, elaborada por IPSOS y encargada por el Ministerio de Cultura. Estas son las siguientes:
 
-## Inspiration & Writing
+## Objetivo estratégico 1
 
-Stevenson had long been intrigued by the idea of how personalities can affect a human and how to incorporate the interplay of good and evil into a story. While still a teenager, he developed a script for a play about Deacon Brodie, which he later reworked with the help of W. E. Henley and saw produced for the first time in 1882. In early 1884 he wrote the short story "Markheim", which he revised in 1884 for publication in a Christmas annual. One night in late September or early October 1885, possibly while he was still revising "Markheim," Stevenson had a dream, and upon wakening had the intuition for two or three scenes that would appear in the story. Biographer Graham Balfour quoted Stevenson's wife Fanny Stevenson:
+Para verificar y cuantificar el cumplimiento de este primer OE, el PLANDEPA propone tres indicadores.
 
-> "In the small hours of one morning, I was awakened by cries of horror from Louis. Thinking he had a nightmare, I awakened him. He said angrily: 'Why did you wake me? I was dreaming a fine bogey tale.' I had awakened him at the first transformation scene."
+* Indicador 1. Porcentaje de encuestas que incorporan la variable étnica (INEI, RENIEC, CULTURA, MINJUS, MIMP, MINSA, MTPE, MINEDU, GORES, CONACOD). Meta: 100%
+* Indicador 2. Porcentaje de registros administrativos estadísticos que incorporan la variable étnica. Meta: 50%
+* Indicador 3.Porcentaje de encuestas nacionales que incorporan preguntas sobre discriminación étnico racial. Meta: 100%
 
-## Main Characters
+Con respecto a este OE21, se podrían considerar cumplidas estas tres metas si *todas* las encuestas realizadas por las instituciones mencionadas hubieran cumplido con incorporar la variable étnica a la fecha. Sin embargo, el indicador establecido por el PLANDEPA no es claro sobre qué tipo de encuestas deben tomarse tomarse en cuenta, pues existe una gran variedad de ellas. Por ejemplo el INEI no solamente elabora encuestas a personas, sino tambien encuestas económicas, encuestas a empresas y encuestas a hogares. Un ejemplo es la [Encuesta Nacional de Empresas](https://www.inei.gob.pe/encuesta-nacional-empresas-2020/), la cual no incorpora la variable étnica, pero tampoco parece resultar útil hacerlo, pues la elaboración de esta encuesta más bien forma parte del Plan Nacional de Diversificación Productiva y está orientada a la obtención de datos económicos y logísticos de las empresas peruanas. Si la meta planteada es realmente el 100% de las encuestas de todas las instituciones, entonces podemos considerar que la meta no se encuentra cumplida. Al parecer, nos encontramos aquí frente a un indicador muy bien intencionado, pero poco útil para verificar si, efectivamente, se está recogiendo la información necesaria para mejorar las políticas orientadas hacia el pueblo afroperuano.
 
-The story revolves around **8 main characters**:
+En otros sectores, como el MINJUS o el MINCUL, sí existen avances claros: la *Primera encuesta nacional sobre percepciones sobre diversidad cultural y discriminación étnico-racial* (MINCUL) o la [II Encuesta nacional  en materia de Derechos Humanos](https://observatorioderechoshumanos.minjus.gob.pe/wp-content/uploads/2020/07/2.-Resumen-ejecutivo-de-la-II-Encuesta-Nacional-de-Derechos-Humanos.pdf) (MINJUS) son dos encuestas que sí incorporan la variable étnica (Indicador 1 del OE1 del PLANDEPA) y preguntas sobre discriminación étnico racial (Indicador 3 del OE1). Estos productos nos permitirían afirmar que sí se han cumplido las metas del O.E.1, pero solo parcialmente. De todos modos, como ya se mencionó, el indicador no es claro sobre qué encuestas deben tomarse en cuenta en cada institución y, solo con las encuestas mencionadas, el indicador 2 no podría evaluarse.
 
-- Dr. Henry Jekyll/Edward Hyde
-- Mr. Gabriel John Utterson
-- Richard Enfield
-- Dr. Hastie Lanyon
-- Mr. Poole
-- Inspector Newcomen
-- Sir Danvers Carew
-- Maid
+## Objetivo estratégico 2
 
-## Reception
+* Indicador 1. Porcentaje de la población que considera que las personas afrodescendientes “son discriminadas en el ámbito laboral”. Meta: 40%
 
-Strange Case of Dr Jekyll and Mr Hyde was an immediate success and is one of Stevenson's best-selling works. Stage adaptations began in Boston and London and soon moved all across England and then towards his home Scotland within a year of its publication and it has gone on to inspire scores of major film and stage performances.
+Sobre el primer indicador de este OE2, debe señalarse que esta meta se ha planteado teniendo en cuenta la línea de base (59%) de la  *I encuesta nacional  en materia de Derechos Humanos* (2013) con la intención de reducir este número hsata un 40%; sin embargo, hacer la comparación es imposible, pues la *Primera encuesta nacional sobre percepciones sobre diversidad cultural y discriminación étnico-racial* elaborada por el MINCUL (2018) no cuenta con preguntas dirigidas a este fin. No existen preguntas que midan la discriminación hacia la población afroperuana exclusivamente en el ámbito laboral, sino que solamente se mide en términos generales. De hecho, incluso en la *I encuesta nacional  en materia de Derechos Humanos*, de donde se obtuvo la línea de base,  tampoco se encuentra esta variable de medición, sino preguntas mucho más generales que no permiten medir el cumplimiento de esta meta. Nuevamente, nos encontramos ante un indicador virtualmente imposible de medir. De todos modos, la cifra sobre discriminación general que ofrece la *Primera encuesta nacional sobre percepciones sobre diversidad cultural y discriminación étnico-racial* (MINCUL) es de 60%, por lo que podemos afirmar que la situación no ha variado mucho desde la línea de base (59%).
 
-The Strange Case of Dr Jekyll and Mr Hyde was initially sold as a paperback for one shilling in the UK and one dollar in the U.S. The American publisher issued the book on 5 January 1886, four days before the first appearance of the UK edition issued by Longmans; Scribner's published 3000 copies, only 1250 of them bound in cloth. Initially stores would not stock it until a review appeared in The Times, on 25 January 1886, giving it a favourable reception. Within the next six months, close to forty thousand copies were sold. The book's success was probably due more to the "moral instincts of the public" than any perception of its artistic merits; it was widely read by those who never otherwise read fiction, quoted in pulpit sermons and in religious papers. By 1901 it was estimated to have sold over 250,000 copies.
+Por otra parte, si bien es cierto que en ambos documentos hay preguntas sobre la discriminación laboral, estas se realizan de forma independiente a las preguntas de autoidentificación étnica de cada encuestado, de modo que no podemos cruzar las variables para saber cuántas personas afroperuanas se han sentido discriminadas en su centro laboral. Nuevamente, el diseño de instrumentos de medición se ha hecho sin tomar en cuenta los objetivos planteados por las políticas. Nos proponemos una cosa, pero evaluamos si cumplimos otra.
 
+Acerda del Indicador 2, Porcentaje de instituciones educativas que aplican estrategias para identificar y contrarrestar las causas de la discriminación étnico-racial, en la *Primera encuesta nacional sobre percepciones sobre diversidad cultural y discriminación étnico-racial* no se encuentra información acerca del cumplimiento de este indicador, pues se trata de una encuesta de percepciones y no de avances de sectores. Lo mismo ocurre con los índicadores de los OE3, OE4 y OE5, los cuales no pueden ser evaluados por medio de esta encuesta, pues las metas trazadas son implementaciones, tasas y porcentajes de  personas o instituciones que realizan acciones. La fuente de datos para verificar el cumplimiento de esto son informes técnicos de cada ente rector y no encuestas realizadas al público.
