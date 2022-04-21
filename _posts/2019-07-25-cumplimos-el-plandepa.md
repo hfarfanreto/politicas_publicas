@@ -1,12 +1,12 @@
 ---
 layout: post
-title: "¿Estamos cumpliendo el Plan Nacional de Desarrollo para la Población Afroperuana?"
+title: "¿Estamos cumpliendo el PLANDEPA?"
 date: 2019-07-25 12:00:00
 categories: jekyll
 featured_image: /images/plandepa1.jpg
 ---
 
-Los indicadores de evauación del PLANDEPA incluyen algunas metas cuyo cumplimiento puede ser medido con la Primera encuesta nacional sobre percepciones sobre diversidad cultural y discriminación étnico-racial, elaborada por IPSOS y encargada por el Ministerio de Cultura. Estas son las siguientes:
+Los indicadores de evauación del Plan Nacional de Desarrollo para la Población Afroperuana (PLANDEPA) incluyen algunas metas cuyo cumplimiento puede ser medido con la Primera encuesta nacional sobre percepciones sobre diversidad cultural y discriminación étnico-racial, elaborada por IPSOS y encargada por el Ministerio de Cultura. Estas son las siguientes:
 
 ## Objetivo estratégico 1
 
@@ -28,4 +28,4 @@ Sobre el primer indicador de este OE2, debe señalarse que esta meta se ha plant
 
 Por otra parte, si bien es cierto que en ambos documentos hay preguntas sobre la discriminación laboral, estas se realizan de forma independiente a las preguntas de autoidentificación étnica de cada encuestado, de modo que no podemos cruzar las variables para saber cuántas personas afroperuanas se han sentido discriminadas en su centro laboral. Nuevamente, el diseño de instrumentos de medición se ha hecho sin tomar en cuenta los objetivos planteados por las políticas. Nos proponemos una cosa, pero evaluamos si cumplimos otra.
 
-Acerda del Indicador 2, Porcentaje de instituciones educativas que aplican estrategias para identificar y contrarrestar las causas de la discriminación étnico-racial, en la *Primera encuesta nacional sobre percepciones sobre diversidad cultural y discriminación étnico-racial* no se encuentra información acerca del cumplimiento de este indicador, pues se trata de una encuesta de percepciones y no de avances de sectores. Lo mismo ocurre con los índicadores de los OE3, OE4 y OE5, los cuales no pueden ser evaluados por medio de esta encuesta, pues las metas trazadas son implementaciones, tasas y porcentajes de  personas o instituciones que realizan acciones. La fuente de datos para verificar el cumplimiento de esto son informes técnicos de cada ente rector y no encuestas realizadas al público.
+Acerca del Indicador 2, Porcentaje de instituciones educativas que aplican estrategias para identificar y contrarrestar las causas de la discriminación étnico-racial, en la *Primera encuesta nacional sobre percepciones sobre diversidad cultural y discriminación étnico-racial* no se encuentra información acerca del cumplimiento de este indicador, pues se trata de una encuesta de percepciones y no de avances de sectores. Lo mismo ocurre con los índicadores de los OE3, OE4 y OE5, los cuales no pueden ser evaluados por medio de esta encuesta, pues las metas trazadas son implementaciones, tasas y porcentajes de  personas o instituciones que realizan acciones. La fuente de datos para verificar el cumplimiento de esto son informes técnicos de cada ente rector y no encuestas realizadas al público.
