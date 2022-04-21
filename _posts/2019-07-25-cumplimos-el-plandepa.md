@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "¿Estamos cumpliendo el PLANDEPA?"
+title: "¿Estamos cumpliendo el Plandepa?"
 date: 2019-07-25 12:00:00
 categories: jekyll
 featured_image: /images/plandepa1.jpg
