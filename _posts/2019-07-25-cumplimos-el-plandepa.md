@@ -1,9 +1,9 @@
 ---
 layout: post
-title: "Strange Case of Dr Jekyll and Mr Hyde"
-date: 2014-01-09 12:00:00
+title: "¿Estamos cumpliendo el Plan Nacional de Desarrollo para la Población Afroperuana?"
+date: 2019-07-25 12:00:00
 categories: jekyll
-featured_image: /images/cover.jpg
+featured_image: /images/plandepa1.jpg
 ---
 
 Strange Case of Dr Jekyll and Mr Hyde is the original title of a novella written by the Scottish author [Robert Louis Stevenson]() that was first published in 1886. The work is commonly known today as The Strange Case of Dr. Jekyll and Mr. Hyde, Dr. Jekyll and Mr. Hyde, or simply Jekyll & Hyde. It is about a London lawyer named Gabriel John Utterson who investigates strange occurrences between his old friend, Dr. Henry Jekyll, and the evil Edward Hyde.
