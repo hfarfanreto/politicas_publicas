@@ -8,7 +8,7 @@ featured_image: /images/plandepa1.jpg
 
 Los indicadores de evauación del Plan Nacional de Desarrollo para la Población Afroperuana (PLANDEPA) incluyen algunas metas cuyo cumplimiento puede ser medido con la Primera encuesta nacional sobre percepciones sobre diversidad cultural y discriminación étnico-racial, elaborada por IPSOS y encargada por el Ministerio de Cultura. Estas son las siguientes:
 
-## Objetivo estratégico 1
+## Objetivo Estratégico 1
 
 Para verificar y cuantificar el cumplimiento de este primer OE, el PLANDEPA propone tres indicadores.
 
@@ -20,7 +20,7 @@ Con respecto a este OE21, se podrían considerar cumplidas estas tres metas si *
 
 En otros sectores, como el MINJUS o el MINCUL, sí existen avances claros: la *Primera encuesta nacional sobre percepciones sobre diversidad cultural y discriminación étnico-racial* (MINCUL) o la [II Encuesta nacional  en materia de Derechos Humanos](https://observatorioderechoshumanos.minjus.gob.pe/wp-content/uploads/2020/07/2.-Resumen-ejecutivo-de-la-II-Encuesta-Nacional-de-Derechos-Humanos.pdf) (MINJUS) son dos encuestas que sí incorporan la variable étnica (Indicador 1 del OE1 del PLANDEPA) y preguntas sobre discriminación étnico racial (Indicador 3 del OE1). Estos productos nos permitirían afirmar que sí se han cumplido las metas del O.E.1, pero solo parcialmente. De todos modos, como ya se mencionó, el indicador no es claro sobre qué encuestas deben tomarse en cuenta en cada institución y, solo con las encuestas mencionadas, el indicador 2 no podría evaluarse.
 
-## Objetivo estratégico 2
+## Objetivo Estratégico 2
 
 * Indicador 1. Porcentaje de la población que considera que las personas afrodescendientes “son discriminadas en el ámbito laboral”. Meta: 40%
 
