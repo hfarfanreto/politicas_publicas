@@ -4,11 +4,17 @@ title: 'Políticas Públicas' # Your Title
 tagline: 'Opiniones, análisis y noticias sobre políticas públicas en el Perú. Escrito por <a href="http://haroldfarfanreto.com" target="_blank">Harold Farfán Reto</a>.' # A brief tagline for your site
 sidebar_image: /images/cover.jpg
 permalink: /:title/
-google_analytics: G-QBDHKX9T67
 
 # Build settings
 markdown: kramdown
 highlighter: pygments
 baseurl: /
 # baseurl: /strange_case # the subpath of your site, e.g. /blog/
+
+# Analytics
+analytics:
+  provider               : "google-gtag"
+  google:
+    measurement_id          : "G-QBDHKX9T67"
+    anonymize_ip         : # true, false (default)
 
