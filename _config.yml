@@ -12,9 +12,4 @@ baseurl: /
 # baseurl: /strange_case # the subpath of your site, e.g. /blog/
 
 # Analytics
-analytics:
-  provider               : "google-gtag"
-  google:
-    measurement_id          : "G-QBDHKX9T67"
-    anonymize_ip         : # true, false (default)
-
+google_analytics: G-QBDHKX9T67
