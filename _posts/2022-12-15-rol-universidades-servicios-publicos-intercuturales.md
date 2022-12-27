@@ -6,20 +6,23 @@ categories: jekyll
 featured_image: /images/serviciospublicos1.jpg
 ---
 
-Han pasado 15 años de la Declaración de las Naciones Unidas sobre los Derechos de los Pueblos Indígenas (2007). Durante este tiempo, e incluso desde antes, el Estado peruano ha venido adoptando diferentes medidas para asegurar el ejercicio de los derechos de la población indígena. En este camino se han tenido avances y retrocesos, y se han enfrentado diversos intereses tanto económicos como políticos. 
+Han pasado 15 años de la Declaración de las Naciones Unidas sobre los Derechos de los Pueblos Indígenas (2007). Durante este tiempo, e incluso desde antes, el Estado peruano ha venido adoptando diferentes medidas para asegurar el ejercicio de los derechos de la población indígena. En este camino se han experimentado avances y retrocesos, y se han enfrentado diversos intereses tanto económicos como políticos. 
 
 Entre sus principales propuestas, la Declaración sobre los Derechos de los Pueblos Indígenas menciona la necesidad de crear servicios públicos interculturales. Por ejemplo, el artículo 13 establece de forma general que tanto el idioma como las tradiciones y filosofía de los pueblos indígenas deben ser incorporados en los servicios brindados por el Estado: 
 >"Artículo 13
+>
 Los pueblos indígenas tienen derecho a fortalecer, fomentar y transmitir a sus generaciones futuras sus historias, idiomas, tradiciones, filosofías, escritura y literatura; y a dar nombre a sus comunidades, lugares y personas.
 
 El Estado implementará medidas eficaces que garanticen este derecho; es decir que […] también deberá asegurar que los pueblos indígenas entiendan y se hagan entender en temas políticos, jurídicos y administrativos, y en caso de ser necesario facilitará intérpretes u otros medios."
 
 Por otra parte, el artículo 24 establece que este enfoque también debe ser adoptado por las políticas públicas dedicadas a la salud:
 >"Artículo 24
+>
 Los pueblos indígenas […] tienen derecho de acceso sin discriminación a todos los servicios sociales y de salud […]. El Estado tomará las medidas necesarias para lograr progresivamente que este derecho se cumpla."
 
 Finalmente, el artículo 40 hace explícita la necesidad de incorporar el enfoque intercultural también en la administración de justicia:
 >"Artículo 40
+>
 Los pueblos indígenas tienen derecho al acceso a procedimientos justos y equitativos, decisiones rápidas y remedios efectivos, cuando existe un conflicto o disputa con el Estado y otras partes. En esas decisiones hay que considerar las costumbres, tradiciones, normas y leyes de los pueblos indígenas interesados y las normas internacionales de derechos humanos."
 
 Como se ve, la Declaración enfatiza el rol de los Estados en el ejercicio de los derechos de la población indígena, el cual se materializa en las políticas para el reconocimiento de estos. El caso peruano, entre los casos más representativos, se encuentra el reconocimiento del derecho a la consulta previa y a la educación con pertinencia cultural, y, de manera un poco más reciente, la adopción del enfoque intercultural en los servicios públicos. 
