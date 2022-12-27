@@ -1,9 +1,9 @@
 ---
 layout: post
-title: "Los bonos de la pandemia: ¿una política exitosa?"
-date: 2020-11-17 12:00:00
+title: "El rol de las universidades en la creación de servicios públicos interculturales (parte 1)"
+date: 2022-12-28 12:00:00
 categories: jekyll
-featured_image: /images/pandemia1.jpg
+featured_image: /images/serviciospublicos1.jpg
 ---
 
 En el marco de la emergencia sanitaria de este año, el Gobierno ha decretado la entrega de bonos económicos a los sectores declarados como más vulnerables. Esta política responde, por un lado, a la necesidad de atenuar lo más posible la contracción de la economía, que ha sido un resultado inevitable de la pérdida de 2.3 millones de puestos de empleo y la consiguiente pérdida de capacidad adquisitiva, y, por otro lado, también tuvo como finalidad brindar soporte tanto a las familias que perdieron sus ingresos económicos por la pandemia como a la población en general.
