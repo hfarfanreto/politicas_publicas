@@ -31,7 +31,7 @@ No olvidemos que este concepto, el de servicios públicos, tiene una vinculació
 
 Este vínculo que menciona Solano nace del hecho de que la finalidad principal de los servicios públicos es garantizar y promover los derechos de la población (en el caso de este texto, de la población indígena), ya sea el derecho a la salud (mediante servicios como hospitales o campañas de vacunación), el derecho a la identidad (mediante, por ejemplo, los servicios de identificación), entre otros. Por ello, es de vital importancia que estos lleguen de manera equitativa y con calidad a todos los ciudadanos del país.
 
-Si tenemos en cuenta, además, que una gran parte de la población peruana se identifica como indígena (5 millones 985 mil 551 personas, equivalente al 26% de la población, según [el último censo](https://censos2017.inei.gob.pe/redatam/)) y que hay una gran brecha en el acceso de servicios públicos en la población indígena, especialmente la amazónica ([BDPI](https://bdpi.cultura.gob.pe/indicadores-sociales)), la incorporación del enfoque intercultural en el país se convierte en una necesidad indispensable y urgente para poder asegurar los derechos de esta parte de la población peruana, lo cual también resulta de vital importancia para el desarrollo de la nación en su conjunto en todos sus aspectos. 
+Si tenemos en cuenta, además, que una gran parte de la población peruana se identifica como indígena (5 985 551 personas, equivalente al 26% de la población, según [el último censo](https://censos2017.inei.gob.pe/redatam/)) y que hay una gran brecha en el acceso de servicios públicos en la población indígena, especialmente la amazónica ([BDPI](https://bdpi.cultura.gob.pe/indicadores-sociales)), la incorporación del enfoque intercultural en el país se convierte en una necesidad indispensable y urgente para poder asegurar los derechos de esta parte de la población peruana, lo cual también resulta de vital importancia para el desarrollo de la nación en su conjunto en todos sus aspectos. 
 
 Para lograr esto, es necesario contar con servicios públicos interculturales, también llamados servicios con pertinencia cultural. La [Guía para la aplicación del enfoque intercultural en la gestión de servicios públicos del Ministerio de Cultura](https://centroderecursos.cultura.pe/sites/default/files/rb/pdf/guiaparalaaplicaciondelenfoqueinterculturalenlagestiondelosserviciospublicos-final.pdf) los define como aquellos que incorporan el enfoque intercultural en su gestión y prestación; es decir, que se ofrecen tomando en cuenta las características culturales particulares de los grupos de población de las localidades en donde se interviene y se brinda atención ([Solano, 2015](https://centroderecursos.cultura.pe/sites/default/files/rb/pdf/guiaparalaaplicaciondelenfoqueinterculturalenlagestiondelosserviciospublicos-final.pdf)).
 
@@ -51,10 +51,9 @@ Entre estos elementos, los recursos humanos merecen una especial atención, debi
 
 La Guía para la aplicación para la aplicación establece que, para brindar servicios públicos con pertinencia cultural y libres de discriminación, la institución debe cumplir ciertos requisitos. Estos son:
 1) el personal debe estar capacitado en el enfoque intercultural, 
-2) 
-3) la institución debe promover el desarrollo de las competencias interculturales de los servidores que permitan brindar una atención pertinente culturalmente y de calidad, 
-4) la institución debe conocer la diversidad y competencias interculturales de los servidores de la entidad, y 
-5) debe incorporar a traductores, intérpretes y facilitadores interculturales para facilitar la prestación de servicios.
+2) la institución debe promover el desarrollo de las competencias interculturales de los servidores que permitan brindar una atención pertinente culturalmente y de calidad, 
+3) la institución debe conocer la diversidad y competencias interculturales de los servidores de la entidad, y 
+4) debe incorporar a traductores, intérpretes y facilitadores interculturales para facilitar la prestación de servicios.
 
 Ahora, en este contexto de crecimiento y mejora de los servicios públicos, y de incorporación y del enfoque intercultural, cabe preguntarse cómo y dónde se adquieren estas competencias interculturales de las que hablamos. Por ejemplo, ¿dónde se forma un comunicador intercultural? ¿Cómo aprende un enfermero o una asistente fiscal a incorporar saberes culturales en sus servicios? 
 
