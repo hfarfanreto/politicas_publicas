@@ -10,10 +10,8 @@ Han pasado 15 años de la Declaración de las Naciones Unidas sobre los Derechos
 
 Entre sus principales propuestas, la Declaración sobre los Derechos de los Pueblos Indígenas menciona la necesidad de crear servicios públicos interculturales. Por ejemplo, el artículo 13 establece de forma general que tanto el idioma como las tradiciones y filosofía de los pueblos indígenas deben ser incorporados en los servicios brindados por el Estado: 
 >"Artículo 13
->
-Los pueblos indígenas tienen derecho a fortalecer, fomentar y transmitir a sus generaciones futuras sus historias, idiomas, tradiciones, filosofías, escritura y literatura; y a dar nombre a sus comunidades, lugares y personas.
-
-El Estado implementará medidas eficaces que garanticen este derecho; es decir que […] también deberá asegurar que los pueblos indígenas entiendan y se hagan entender en temas políticos, jurídicos y administrativos, y en caso de ser necesario facilitará intérpretes u otros medios."
+>"Los pueblos indígenas tienen derecho a fortalecer, fomentar y transmitir a sus generaciones futuras sus historias, idiomas, tradiciones, filosofías, escritura y literatura; y a dar nombre a sus comunidades, lugares y personas.
+>El Estado implementará medidas eficaces que garanticen este derecho; es decir que […] también deberá asegurar que los pueblos indígenas entiendan y se hagan entender en temas políticos, jurídicos y administrativos, y en caso de ser necesario facilitará intérpretes u otros medios."
 
 Por otra parte, el artículo 24 establece que este enfoque también debe ser adoptado por las políticas públicas dedicadas a la salud:
 >"Artículo 24
