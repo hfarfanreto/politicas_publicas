@@ -1,11 +1,10 @@
 ---
 layout: post
-title: "El rol de las universidades en la creación de servicios públicos interculturales (parte 1)"
+title: "El rol de las universidades en la creación de servicios públicos interculturales* (parte 1)"
 date: 2022-12-15 12:00:00
 categories: jekyll
 featured_image: /images/serviciospublicos1.jpg
 ---
-Texto presentado en el I Coloquio de Ciencias Sociales e Interculturalidad “Desafíos actuales: 15 años de la Declaración de las Naciones Unidas sobre los Derechos de los Pueblos Indígenas” de la Escuela de Posgrado de la Universidad Antonio Ruiz de Montoya, el 9 de diciembre de 2022.
 
 Han pasado 15 años de la Declaración de las Naciones Unidas sobre los Derechos de los Pueblos Indígenas (2007). Durante este tiempo, e incluso desde antes, el Estado peruano ha venido adoptando diferentes medidas para asegurar el ejercicio de los derechos de la población indígena. En este camino se han tenido avances y retrocesos, y se han enfrentado diversos intereses tanto económicos como políticos. 
 Entre sus principales propuestas, la Declaración sobre los Derechos de los Pueblos Indígenas menciona la necesidad de crear servicios públicos interculturales. Por ejemplo, el artículo 13 establece de forma general que tanto el idioma como las tradiciones y filosofía de los pueblos indígenas deben ser incorporados en los servicios brindados por el Estado: 
@@ -42,7 +41,7 @@ Hasta hace poco, los caminos para desarrollar las competencias interculturales e
 2) los servidores públicos interculturales son profesionales indígenas, quienes, tras una formación tradicional, deciden incorporar el enfoque intercultural para en sus instituciones y mejorar las condiciones de sus pueblos y/o comunidades. 
 En ambos casos, existe un denominador común: la carencia de una formación universitaria de base que aborde de manera transversal el enfoque intercultural. Por ello, una vez formados como profesionales, el desarrollo de las competencias interculturales dependía de la voluntad del servidor público o de sus jefes para buscar una formación que no ofrecía su centro de estudios. Visto de otra forma, las competencias interculturales, si es que se llegaban a desarrollar, dependían enteramente de la voluntad de actores independientes.
 
-
+*Texto presentado en el I Coloquio de Ciencias Sociales e Interculturalidad “Desafíos actuales: 15 años de la Declaración de las Naciones Unidas sobre los Derechos de los Pueblos Indígenas” de la Escuela de Posgrado de la Universidad Antonio Ruiz de Montoya, el 9 de diciembre de 2022.
 
 
 En el marco de la emergencia sanitaria de este año, el Gobierno ha decretado la entrega de bonos económicos a los sectores declarados como más vulnerables. Esta política responde, por un lado, a la necesidad de atenuar lo más posible la contracción de la economía, que ha sido un resultado inevitable de la pérdida de 2.3 millones de puestos de empleo y la consiguiente pérdida de capacidad adquisitiva, y, por otro lado, también tuvo como finalidad brindar soporte tanto a las familias que perdieron sus ingresos económicos por la pandemia como a la población en general.
