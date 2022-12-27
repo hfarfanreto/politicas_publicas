@@ -18,12 +18,12 @@ Entre sus principales propuestas, la Declaración sobre los Derechos de los Pueb
 Por otra parte, el artículo 24 establece que este enfoque también debe ser adoptado por las políticas públicas dedicadas a la salud:
 >"Artículo 24
 >
-Los pueblos indígenas […] tienen derecho de acceso sin discriminación a todos los servicios sociales y de salud […]. El Estado tomará las medidas necesarias para lograr progresivamente que este derecho se cumpla."
+>Los pueblos indígenas […] tienen derecho de acceso sin discriminación a todos los servicios sociales y de salud […]. El Estado tomará las medidas necesarias para lograr progresivamente que este derecho se cumpla.
 
 Finalmente, el artículo 40 hace explícita la necesidad de incorporar el enfoque intercultural también en la administración de justicia:
->"Artículo 40
+>Artículo 40
 >
-Los pueblos indígenas tienen derecho al acceso a procedimientos justos y equitativos, decisiones rápidas y remedios efectivos, cuando existe un conflicto o disputa con el Estado y otras partes. En esas decisiones hay que considerar las costumbres, tradiciones, normas y leyes de los pueblos indígenas interesados y las normas internacionales de derechos humanos."
+>Los pueblos indígenas tienen derecho al acceso a procedimientos justos y equitativos, decisiones rápidas y remedios efectivos, cuando existe un conflicto o disputa con el Estado y otras partes. En esas decisiones hay que considerar las costumbres, tradiciones, normas y leyes de los pueblos indígenas interesados y las normas internacionales de derechos humanos.
 
 Como se ve, la Declaración enfatiza el rol de los Estados en el ejercicio de los derechos de la población indígena, el cual se materializa en las políticas para el reconocimiento de estos. El caso peruano, entre los casos más representativos, se encuentra el reconocimiento del derecho a la consulta previa y a la educación con pertinencia cultural, y, de manera un poco más reciente, la adopción del enfoque intercultural en los servicios públicos. 
 
