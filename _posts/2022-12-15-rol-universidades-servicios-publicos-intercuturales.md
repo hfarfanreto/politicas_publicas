@@ -12,6 +12,7 @@ Entre sus principales propuestas, la Declaración sobre los Derechos de los Pueb
 >"Artículo 13
 Los pueblos indígenas tienen derecho a fortalecer, fomentar y transmitir a sus generaciones futuras sus historias, idiomas, tradiciones, filosofías, escritura y literatura; y a dar nombre a sus comunidades, lugares y personas.
 El Estado implementará medidas eficaces que garanticen este derecho; es decir que […] también deberá asegurar que los pueblos indígenas entiendan y se hagan entender en temas políticos, jurídicos y administrativos, y en caso de ser necesario facilitará intérpretes u otros medios."
+
 Por otra parte, el artículo 24 establece que este enfoque también debe ser adoptado por las políticas públicas dedicadas a la salud.
 Artículo 24
 Los pueblos indígenas […] tienen derecho de acceso sin discriminación a todos los servicios sociales y de salud […]. El Estado tomará las medidas necesarias para lograr progresivamente que este derecho se cumpla.
