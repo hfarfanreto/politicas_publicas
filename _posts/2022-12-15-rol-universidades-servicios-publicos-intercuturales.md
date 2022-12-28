@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "El rol de las universidades en la creación de servicios públicos interculturales* (parte 1)"
+title: "El rol de las universidades en la creación de servicios públicos interculturales"
 date: 2022-12-15 12:00:00
 categories: jekyll
 featured_image: /images/serviciospublicos1.jpg
@@ -117,3 +117,5 @@ La inclusión de competencias interculturales en la educación superior no debe 
 Los casos mencionados, tanto de iniciativas privadas como públicas, deben, con el tiempo, dejar de ser una excepción y convertirse en una norma. Lo normal para el trabajo profesional en un país intercultural debería ser tener una educación profesional intercultural. Esta responsabilidad recae principalmente en las instituciones donde se forman los profesionales: la universidad y los institutos de educación técnico-productiva.
 
 Finalmente, es justo reconocer que, a pesar de que aún no existe un desarrollo articulado de competencias interculturales en las universidades, sí existe un gran interés en este. Por ejemplo, los programas de formación que ofrecen diversas instituciones vienen teniendo [un gran éxito](https://www.gob.pe/institucion/cultura/noticias/482919-ministerio-de-cultura-capacita-a-mas-de-2-700-servidoras-y-servidores-publicos-con-el-curso-el-abc-de-la-interculturalidad). También es positivo que, año tras año, cada vez más jóvenes de poblaciones indígenas acceden a la educación superior y, con el tiempo, aportarán una importante perspectiva a este trabajo y crearán valor público. Con todo ello, podemos afirmar que el camino para que la universidad peruana se convierta en un espacio de formación de profesionales y servidores públicos interculturales, se encuentra en construcción, pero aún queda mucho por hacer.
+
+*Este texto fue presentado originalmente en el I Coloquio de Ciencias Sociales e Interculturalidad “Desafíos actuales: 15 años de la Declaración de las Naciones Unidas sobre los Derechos de los Pueblos Indígenas, organizado por la Escuela de Posgrado de la UARM, el 9 de diciembre de 2022*
