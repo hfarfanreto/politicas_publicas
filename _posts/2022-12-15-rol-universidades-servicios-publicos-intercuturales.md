@@ -82,7 +82,7 @@ Esta carencia se vuelve más notoria si recordamos que el servicio público peru
 
 Frente a este panorama, resulta adecuado preguntarnos si el desarrollo de competencias interculturales debería ser parte de la formación profesional universitaria. Yo considero que sí, debido a tres razones que detallo a continuación.
 
-**Existe una obligación formal**
+## Existe una obligación formal
 
 En la [Política Nacional de Educación Superior y Técnico Productiva (PNESTP)](https://www.gob.pe/institucion/minedu/informes-publicaciones/1129291-politica-nacional-de-educacion-superior-y-tecnico-productiva), la cual forma parte del marco normativo que rige el funcionamiento de las universidades e institutos técnicos, se formula como problema público “Población con inadecuadas competencias para ejercer su profesión”, y se identifica como una de las causas el “débil proceso formativo integral de la ESTP”. Frente a esto, se propone como alternativa de solución “fortalecer el proceso formativo integral acorde a los contextos sociales, culturales y productivos del país”. 
 
@@ -96,7 +96,7 @@ Por otra parte, encontramos otra base normativa en el [Proyecto Educativo Nacion
 
 Como se observa, desde estos instrumentos normativos, existe una obligación de las instituciones de educación superior de brindar una formación para el desarrollo social y cultural del país. Debido a las ya mencionadas brechas sociales existentes en la población indígena, dichas competencias también deben abarcar las interculturales, especialmente en aquellas carreras relacionadas con el sector público. Sin embargo, a pesar de ello, la formación en competencias interculturales no está siendo vista aún como parte de la solución de los problemas públicos del país.
 
-**Mejora la eficiencia del servicio brindado**
+## Mejora la eficiencia del servicio brindado
 
 La práctica nos demuestra que las competencias interculturales en el servicio público, y el enfoque intercultural en general, sirve como un factor que mejora la eficiencia en los servicios brindados por la entidad.
 
@@ -108,7 +108,7 @@ Esta eficiencia también es reconocida en el sector privado, donde también enco
 
 Mención aparte merecen otras carreras profesionales como los traductores e intérpretes que cumplen una labor especialmente importante para brindar servicios públicos interculturales como justicia, salud, comunicación, etc. Aquí podemos encontrar avances importantes como la creación de carreras profesionales de traducción de interpretación en lenguas indígenas. De hecho, un gran ejemplo es la reciente aprobación de [la creación de la Escuela de Lenguas, Traducción e Interpretación de la UNMSM](https://www.servindi.org/actualidad-noticias/18/11/2022/u-san-marcos-crea-la-carrera-de-lenguas-traduccion-e-interpretacion), la cual será la primera institución pública que forme profesionales en traducción en lenguas originarias. Creo que, además de la generación de nuevos recursos humanos, es importante también recordar que la creación de esta nueva oferta no sería posible sin la existencia de una demanda previa.
 
-**Mejora el desempeño de la institución en todos los niveles**
+## Mejora el desempeño de la institución en todos los niveles
 
 En tercer lugar, la formación en competencias interculturales es importante a nivel profesional no solo para quienes brindan directamente el servicio, como doctoras o doctores, o enfermeros o enfermeras, o personal de atención al público, sino también para personal que realiza un trabajo alejado del usuario, como la toma decisiones de alto nivel o el planeamiento estratégico de la institución. Después de todo, el enfoque intercultural debe ser transversal y no puede ser implementado exitosamente sin que los altos mandos de la entidad también comprendan la necesidad de este enfoque. 
 
