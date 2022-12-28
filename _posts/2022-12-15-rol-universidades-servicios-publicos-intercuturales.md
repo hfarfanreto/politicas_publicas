@@ -6,8 +6,9 @@ categories: jekyll
 featured_image: /images/serviciospublicos1.jpg
 ---
 
-Han pasado 15 años de la [Declaración de las Naciones Unidas sobre los Derechos de los Pueblos Indígenas (2007)](https://www.un.org/development/desa/indigenous-peoples-es/declaracion-sobre-los-derechos-de-los-pueblos-indigenas.html). Durante este tiempo, e incluso desde antes, el Estado peruano ha venido adoptando diferentes medidas para asegurar el ejercicio de los derechos de la población indígena. En este camino se ha tenido avances y retrocesos, y se han enfrentado diversos intereses tanto económicos como políticos. 
+Han pasado 15 años de la [Declaración de las Naciones Unidas sobre los Derechos de los Pueblos Indígenas (2007)](https://www.un.org/development/desa/indigenous-peoples-es/declaracion-sobre-los-derechos-de-los-pueblos-indigenas.html). Durante este tiempo, e incluso desde antes, el Estado peruano ha venido adoptando diferentes medidas para asegurar el ejercicio de los derechos de la población indígena. En este camino se ha tenido avances y retrocesos, y se han enfrentado diversos intereses tanto económicos como políticos. Una de las iniciativas más necesarias y ambiciosas de implementar es la creación de servicios públicos interculturales, para lo cual se necesita la participación de toda la sociedad, incluidas, en mi opinión, las universidades.
 
+## Los servicios públicos en la Declaración de los Pueblos Indígenas
 Entre sus principales propuestas, la Declaración sobre los Derechos de los Pueblos Indígenas menciona la necesidad de crear servicios públicos interculturales. Por ejemplo, el artículo 13 establece de forma general que tanto el idioma como las tradiciones y filosofía de los pueblos indígenas deben ser incorporados en los servicios brindados por el Estado: 
 
 >Artículo 13
@@ -31,9 +32,10 @@ Como se ve, esta Declaración enfatiza el rol de los Estados en el ejercicio de 
 
 Esto es importante, pues la finalidad principal de los servicios públicos es garantizar y promover los derechos de la población (en el caso de esta ponencia, de la población indígena), ya sea el derecho a la salud (mediante servicios como hospitales o campañas de vacunación), el derecho a la identidad (mediante, por ejemplo, los servicios de identificación), entre otros. Por ello, es de vital importancia que estos lleguen de manera equitativa y con calidad a todos los ciudadanos del país.
 
-Si tenemos en cuenta, además, que una gran parte de la población peruana se identifica como indígena (5 985 551 personas, equivalente al 26% de la población, según [el último censo](https://censos2017.inei.gob.pe/redatam/)) y que [hay una gran brecha en el acceso de servicios públicos en la población indígena](https://bdpi.cultura.gob.pe/indicadores-sociales), la incorporación del enfoque intercultural en el país se convierte en una necesidad indispensable y urgente para poder asegurar los derechos de esta parte de la población peruana, y para el desarrollo de la nación en su conjunto en todos sus aspectos. 
+Si tenemos en cuenta, además, que una gran parte de la población peruana se identifica como indígena (5 985 551 personas, equivalente al 26% de la población, según [el último censo](https://censos2017.inei.gob.pe/redatam/)) y que [hay una gran brecha en el acceso de servicios públicos en la población indígena](https://bdpi.cultura.gob.pe/indicadores-sociales), la incorporación del enfoque intercultural en el país se convierte en una necesidad indispensable y urgente para poder asegurar los derechos de esta parte de la población peruana, y para el desarrollo de la nación en su conjunto en todos sus aspectos. Para lograr esto, es necesario contar con servicios públicos interculturales, también llamados servicios con pertinencia cultural. 
 
-Para lograr esto, es necesario contar con servicios públicos interculturales, también llamados servicios con pertinencia cultural. La [Guía para la aplicación del enfoque intercultural en la gestión de servicios públicos del Ministerio de Cultura](https://centroderecursos.cultura.pe/sites/default/files/rb/pdf/guiaparalaaplicaciondelenfoqueinterculturalenlagestiondelosserviciospublicos-final.pdf) los define como aquellos que incorporan el enfoque intercultural en su gestión y prestación. Esto implica que todos los procesos del servicio brindado se adapten a las características geográficas, ambientales, socioeconómicas, lingüísticas y culturales (prácticas, valores y creencias) del ámbito de atención del servicio, y que se incorporen la cosmovisión y concepciones de desarrollo y bienestar de los diversos grupos de población que habitan en la localidad.
+## Servicios públicos interculturales
+La [Guía para la aplicación del enfoque intercultural en la gestión de servicios públicos del Ministerio de Cultura](https://centroderecursos.cultura.pe/sites/default/files/rb/pdf/guiaparalaaplicaciondelenfoqueinterculturalenlagestiondelosserviciospublicos-final.pdf) los define como aquellos que incorporan el enfoque intercultural en su gestión y prestación. Esto implica que todos los procesos del servicio brindado se adapten a las características geográficas, ambientales, socioeconómicas, lingüísticas y culturales (prácticas, valores y creencias) del ámbito de atención del servicio, y que se incorporen la cosmovisión y concepciones de desarrollo y bienestar de los diversos grupos de población que habitan en la localidad.
 
 Sobre el primero de estos requisitos, debemos tomar en cuenta que, cuando nos referimos a la adaptación a las características culturales y lingüísticas del ámbito de atención, nos referimos a que los servicios brindados 1) estén libres de discriminación y brinden un trato igualitario a todas las personas, 2) que sean bilingües y brinden atención en lengua indígena y la lengua predominante en la zona, y 3) que incorporen con respeto los saberes tradicionales y la perspectiva cultural de la población de la zona. ([Ministerio de Cultura, 2015](https://siteal.iiep.unesco.org/sites/default/files/sit_accion_files/politica_nacional_de_transversalizacion_del_enfoque_intercultural.pdf )).
 
@@ -51,7 +53,8 @@ La Guía para la aplicación para la aplicación del enfoque intercultural estab
 
 + debe incorporar a traductores, intérpretes y facilitadores interculturales para facilitar la prestación de servicios.
 
-Ahora, en este contexto de crecimiento y mejora de los servicios públicos, y de incorporación y del enfoque intercultural, cabe preguntarse cómo y dónde se adquieren estas competencias interculturales de las que hablamos. Por ejemplo, ¿dónde se forma un comunicador intercultural? ¿Cómo aprende un enfermero o una asistente fiscal a incorporar saberes culturales en sus servicios? 
+## Formación de competencias interculturales
+en este contexto de crecimiento y mejora de los servicios públicos, y de incorporación y del enfoque intercultural, cabe preguntarse cómo y dónde se adquieren estas competencias interculturales de las que hablamos. Por ejemplo, ¿dónde se forma un comunicador intercultural? ¿Cómo aprende un enfermero o una asistente fiscal a incorporar saberes culturales en sus servicios? 
 
 Hasta hace poco, los caminos para desarrollar estas competencias parecían reducirse principalmente a dos situaciones que se repetían constantemente: 
 
@@ -79,7 +82,7 @@ Esta carencia se vuelve más notoria si recordamos que el servicio público peru
 
 Frente a este panorama, resulta adecuado preguntarnos si el desarrollo de competencias interculturales debería ser parte de la formación profesional universitaria. Yo considero que sí, debido a tres razones que detallo a continuación.
 
-# Existe una obligación formal
+### Existe una obligación formal
 En la [Política Nacional de Educación Superior y Técnico Productiva (PNESTP)](https://www.gob.pe/institucion/minedu/informes-publicaciones/1129291-politica-nacional-de-educacion-superior-y-tecnico-productiva), la cual forma parte del marco normativo que rige el funcionamiento de las universidades e institutos técnicos, se formula como problema público “Población con inadecuadas competencias para ejercer su profesión”, y se identifica como una de las causas el “débil proceso formativo integral de la ESTP”. Frente a esto, se propone como alternativa de solución “fortalecer el proceso formativo integral acorde a los contextos sociales, culturales y productivos del país”. 
 
 Para lograrlo, la PNESTP propone lo siguiente:
@@ -92,7 +95,7 @@ Por otra parte, encontramos otra base normativa en el [Proyecto Educativo Nacion
 
 Como se observa, desde estos instrumentos normativos, existe una obligación de las instituciones de educación superior de brindar una formación para el desarrollo social y cultural del país. Debido a las ya mencionadas brechas sociales existentes en la población indígena, dichas competencias también deben abarcar las interculturales, especialmente en aquellas carreras relacionadas con el sector público. Sin embargo, a pesar de ello, la formación en competencias interculturales no está siendo vista aún como parte de la solución de los problemas públicos del país.
 
-## Mejora la eficiencia del servicio brindado
+### Mejora la eficiencia del servicio brindado
 La práctica nos demuestra que las competencias interculturales en el servicio público, y el enfoque intercultural en general, sirve como un factor que mejora la eficiencia en los servicios brindados por la entidad.
 
 Uno de los mejores ejemplos lo encontramos en [la intervención "Nacer bien en la Amazonía Indígena" de la Dirección Regional de Salud de Loreto](https://www.youtube.com/watch?v=1Me6z00Hvrc), la cual, mediante la adopción de un enfoque intercultural en los servicios de salud materno neonatales, logró reducir en un solo año casi el 40% las muertes maternas en los establecimientos de salud de Indiana, Mazán y Nauta. Esto no hubiera sido posible sin la existencia de servidores públicos capacitados en el enfoque intercultural.
