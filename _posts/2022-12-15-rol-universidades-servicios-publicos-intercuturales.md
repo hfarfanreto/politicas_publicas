@@ -2,7 +2,7 @@
 layout: post
 title: "El rol de las universidades en la creación de servicios públicos interculturales"
 date: 2022-12-15 12:00:00
-categories: jekyll
+categories: servicios públicos, interculturalidad
 featured_image: /images/serviciospublicos1.jpg
 ---
 
