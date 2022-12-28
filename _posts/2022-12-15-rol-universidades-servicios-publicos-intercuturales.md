@@ -37,22 +37,28 @@ Para lograr esto, es necesario contar con servicios públicos interculturales, t
 
 Esta incorporación del enfoque intercultural implica lo siguiente:
 
-a)que todos los procesos del servicio brindado se adapten a las características geográficas, ambientales, socioeconómicas, lingüísticas y culturales (prácticas, valores y creencias) del ámbito de atención del servicio.
+a) que todos los procesos del servicio brindado se adapten a las características geográficas, ambientales, socioeconómicas, lingüísticas y culturales (prácticas, valores y creencias) del ámbito de atención del servicio.
 
-b)que se incorporen la cosmovisión y concepciones de desarrollo y bienestar de los diversos grupos de población que habitan en la localidad, sea la población original o migrante (Solano, 2015).
+b) que se incorporen la cosmovisión y concepciones de desarrollo y bienestar de los diversos grupos de población que habitan en la localidad, sea la población original o migrante ([Solano, 2015](https://centroderecursos.cultura.pe/sites/default/files/rb/pdf/guiaparalaaplicaciondelenfoqueinterculturalenlagestiondelosserviciospublicos-final.pdf)).
 
 Sobre el primero de estos requisitos, debemos tomar en cuenta que, cuando nos referimos a la adaptación a las características culturales y lingüísticas del ámbito de atención, nos referimos a que los servicios brindados 1) estén libres de discriminación y brinden un trato igualitario a todas las personas, 2) que sean bilingües y brinden atención en lengua indígena y la lengua predominante en la zona, y 3) que incorporen con respeto los saberes tradicionales y la perspectiva cultural de la población de la zona. ([Ministerio de Cultura, 2015](https://siteal.iiep.unesco.org/sites/default/files/sit_accion_files/politica_nacional_de_transversalizacion_del_enfoque_intercultural.pdf )).
 
 Al igual que el enfoque de género o el de derechos humanos, el éxito del enfoque intercultural depende de su transversalización, para lo cual debe adecuarse la infraestructura, la normativa, los instrumentos de gestión (plan estratégico institucional, planes de desarrollo, planes operativos, presupuestos, entre otros.), las competencias comunicativas de las instituciones, documentación y sus recursos humanos, entre otros procesos de la institución. 
 
 Entre estos elementos, los recursos humanos merecen una especial atención, debido a dos factores: 
+
 1) es uno de los elementos más decisivos en la calidad del servicio brindado (son las personas las que atienden directamente al público, pero también las que toman las grandes decisiones de la institución) y 
-2) es uno de los más complejos de modernizar, pues implica cambiar mentalidades, valoraciones, estereotipos y prejuicios. Crear servidores públicos con competencias interculturales requiere el desarrollo de competencias distintas a las del enfoque tradicional del servicio público (Ministerio de Cultura, 2015).
+2) 
+3) es uno de los más complejos de modernizar, pues implica cambiar mentalidades, valoraciones, estereotipos y prejuicios. Crear servidores públicos con competencias interculturales requiere el desarrollo de competencias distintas a las del enfoque tradicional del servicio público (Ministerio de Cultura, 2015).
 
 La Guía para la aplicación para la aplicación establece que, para brindar servicios públicos con pertinencia cultural y libres de discriminación, la institución debe cumplir ciertos requisitos. Estos son:
+
 1) el personal debe estar capacitado en el enfoque intercultural, 
-2) la institución debe promover el desarrollo de las competencias interculturales de los servidores que permitan brindar una atención pertinente culturalmente y de calidad, 
+
+2) la institución debe promover el desarrollo de las competencias interculturales de los servidores que permitan brindar una atención pertinente culturalmente y de caidad, 
+
 3) la institución debe conocer la diversidad y competencias interculturales de los servidores de la entidad, y 
+
 4) debe incorporar a traductores, intérpretes y facilitadores interculturales para facilitar la prestación de servicios.
 
 Ahora, en este contexto de crecimiento y mejora de los servicios públicos, y de incorporación y del enfoque intercultural, cabe preguntarse cómo y dónde se adquieren estas competencias interculturales de las que hablamos. Por ejemplo, ¿dónde se forma un comunicador intercultural? ¿Cómo aprende un enfermero o una asistente fiscal a incorporar saberes culturales en sus servicios? 
@@ -60,6 +66,7 @@ Ahora, en este contexto de crecimiento y mejora de los servicios públicos, y de
 Hasta hace poco, los caminos para desarrollar las competencias interculturales en los servidores públicos parecían reducirse principalmente a dos situaciones que se repetían constantemente: 
 
 1) los servidores públicos interculturales son profesionales no indígenas que, tras una formación tradicional, se interesan en el desarrollo del enfoque intercultural en sus instituciones debido a que trabajan con población indígena.
+
 2) los servidores públicos interculturales son profesionales indígenas, quienes, tras una formación tradicional, deciden incorporar el enfoque intercultural para en sus instituciones y mejorar las condiciones de sus pueblos y/o comunidades. 
 
 En ambos casos, existe un denominador común: la carencia de una formación universitaria de base que aborde de manera transversal el enfoque intercultural. Por ello, una vez formados como profesionales, el desarrollo de las competencias interculturales dependía de la voluntad del servidor público o de sus jefes para buscar una formación que no ofrecía su centro de estudios. Visto de otra forma, las competencias interculturales, si es que se llegaban a desarrollar, dependían enteramente de la voluntad de actores independientes.
