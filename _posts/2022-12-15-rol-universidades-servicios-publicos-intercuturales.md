@@ -79,7 +79,7 @@ Esta carencia se vuelve más notoria si recordamos que el servicio público peru
 
 Frente a este panorama, resulta adecuado preguntarnos si el desarrollo de competencias interculturales debería ser parte de la formación profesional universitaria. Yo considero que sí, debido a tres razones que detallo a continuación.
 
-## Existe una obligación formal
+# Existe una obligación formal
 En la [Política Nacional de Educación Superior y Técnico Productiva (PNESTP)](https://www.gob.pe/institucion/minedu/informes-publicaciones/1129291-politica-nacional-de-educacion-superior-y-tecnico-productiva), la cual forma parte del marco normativo que rige el funcionamiento de las universidades e institutos técnicos, se formula como problema público “Población con inadecuadas competencias para ejercer su profesión”, y se identifica como una de las causas el “débil proceso formativo integral de la ESTP”. Frente a esto, se propone como alternativa de solución “fortalecer el proceso formativo integral acorde a los contextos sociales, culturales y productivos del país”. 
 
 Para lograrlo, la PNESTP propone lo siguiente:
